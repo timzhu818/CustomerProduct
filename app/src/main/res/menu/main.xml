@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/ic_menu"
+        android:showAsAction="always"
+        android:title="">
+        <menu>
+
+            <!-- Rate App -->
+            <!-- <item
+                 android:id="@+id/rate_app"
+                 android:showAsAction="ifRoom|withText"
+                 android:title="@string/rate"/>
+
+             &lt;!&ndash; More App &ndash;&gt;
+             <item
+                 android:id="@+id/more_app"
+                 android:showAsAction="ifRoom|withText"
+                 android:title="@string/more"/>-->
+        </menu>
+    </item>
+</menu>
